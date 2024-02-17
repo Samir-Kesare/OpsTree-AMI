@@ -1,0 +1,5 @@
+ami_name = "my-ami"
+instance_type = "t2.micro"
+region = "us-east-1"
+source_ami = "ami-0faac859c9205201b"
+ssh_username = "ubuntu"
